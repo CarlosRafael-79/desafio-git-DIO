@@ -13,14 +13,29 @@ O **Markdown** é uma linguagem de marcação leve usada para formatar textos de
 
 ## Títulos
 
+Exemplo de Código:
 ```markdown
 # Título 1
 ## Título 2
 ### Título 3
+```
+Exemplo de Resultado:
 
+# Título 1
+## Título 2
+### Título 3
 ---
 
 ## Tabelas 
+
+Exemplo de Código:
+```markdown
+| Nome   | Idade | Linguagem |
+|--------|-------|-----------|
+| Rafael | 23    | Python    |
+| Carlos | 30    | Java      |
+```
+Exemplo de Resultado:
 
 | Nome   | Idade | Linguagem |
 |--------|-------|-----------|
